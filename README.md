@@ -1,6 +1,6 @@
 # Serial-UPDI Programmer (USB-C)
 
-A tiny UPDI programmer for **tinyAVR, megaAVR and AVR-Dx** microcontrollers, now with **USB-C** and a few rounded corners for style points. Because programming a 50-cent microcontroller should not necessarily require hunting for a USB-A port.
+A tiny UPDI programmer for **tinyAVR, megaAVR and AVR-Dx** microcontrollers, now with **USB-C** and a few rounded corners for style points. Because programming a $1 microcontroller should not necessarily require hunting for a USB-A port.
 
 ![Serial-UPDI Programmer top](Images/top.png)
 
