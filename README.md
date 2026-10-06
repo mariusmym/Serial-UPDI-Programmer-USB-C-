@@ -6,7 +6,7 @@ A tiny UPDI programmer for **tinyAVR, megaAVR and AVR-Dx** microcontrollers, now
 
 This is a remix of the excellent **[CH340N SerialUPDI Programmer](https://oshwlab.com/wagiminator/pyupdi-programmer_copy_copy)** by [wagiminator](https://github.com/wagiminator) (original repo: [AVR-Programmer](https://github.com/wagiminator/AVR-Programmer)). All the clever engineering is his. I just gave it a modern connector and a haircut.
 
-## What's new in this version 🆕
+## What's new in this version 
 
 - **USB-C instead of USB-A** – more future proof, reversible, and it fits whatever cable is already on your desk. Proper **5.1kΩ CC resistors** included, so it also works with C-to-C cables.
 - **Rounded PCB outline** – it does exactly the same thing as before, but now it looks good doing it.
