@@ -8,18 +8,18 @@ This is a remix of the excellent **[CH340N SerialUPDI Programmer](https://oshwla
 
 ## What's new in this version 
 
-- **USB-C instead of USB-A** – more future proof, reversible, and it fits whatever cable is already on your desk. Proper **5.1kΩ CC resistors** included, so it also works with C-to-C cables.
-- **Rounded PCB outline** – it does exactly the same thing as before, but now it looks good doing it.
-- **Through-hole voltage switch** (MSK12C02) – sturdier and a lot easier to solder.
-- **Right-angle header** – plug it in flat, so the programmer lies nicely on the desk instead of standing up like a periscope.
+- **USB-C instead of USB-A** - more future proof, reversible, and it fits whatever cable is already on your desk. Proper **5.1kΩ CC resistors** included, so it also works with C-to-C cables.
+- **Rounded PCB outline** - it does exactly the same thing as before, but now it looks good doing it.
+- **Through-hole voltage switch** (MSK12C02) - sturdier and a lot easier to solder.
+- **Right-angle header** - plug it in flat, so the programmer lies nicely on the desk instead of standing up like a periscope.
 
 ## MAIN FEATURES :
 
-- **CH340N USB-to-serial** – a tiny SOP-8 chip that does all the heavy lifting.
-- **5V / 3.3V selection switch** – power the target at whichever voltage it likes, courtesy of an AP2112K 3.3V LDO.
-- **Diode-based SerialUPDI** – the standard "SerialUPDI with diode" circuit, supported by Arduino IDE and pymcuprog.
-- **Power LED** – so you know it's alive.
-- **3-pin header: VCC, GND, UPDI** – three wires, that's the whole interface. UPDI is wonderfully minimalist.
+- **CH340N USB-to-serial** - a tiny SOP-8 chip that does all the heavy lifting.
+- **5V / 3.3V selection switch** - power the target at whichever voltage it likes, courtesy of an AP2112K 3.3V LDO.
+- **Diode-based SerialUPDI** - the standard "SerialUPDI with diode" circuit, supported by Arduino IDE and pymcuprog.
+- **Power LED** - so you know it's alive.
+- **3-pin header: VCC, GND, UPDI** - three wires, that's the whole interface. UPDI is wonderfully minimalist.
 
 ![Serial-UPDI Programmer bottom](Images/bottom.png)
 
