@@ -78,7 +78,7 @@ Original design by **[wagiminator](https://github.com/wagiminator)**: https://gi
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-The original design is licensed under CC BY-SA 3.0, so this remix is shared under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+The original design is licensed under CC BY-SA 4.0, so this remix is shared under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 
 - ✅ **Share** – copy and redistribute it in any medium or format
 - ✅ **Adapt** – remix, transform, and build upon it, even commercially
